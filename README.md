@@ -92,7 +92,7 @@ If you would like to connect or collaborate, feel free to reach out:
 
 ## 📌 Deployment
 
-This project is deployed using **GitHub Pages / Vercel**.
+This project is deployed using **Netlify**.
 
 ---
 
